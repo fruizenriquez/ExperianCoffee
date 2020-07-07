@@ -1,0 +1,77 @@
+Id	FarmName	CountryOfOrigin	Mill	Company	Region
+1		Costa Rica	Dosmil	Beneficios Volcafé Costa Rica	
+2	Agua Caliente	El Salvador	Beneficio Agua Caliente	Consejo Salvadoreño Del Café	Apaneca - Ilamatepec
+3	Aldea Global	Nicaragua	Aldea Coffee	Asociación Aldea Global Jinotega	Matagalpa
+4	Apollo Estate	Vietnam	Dry Mill	Sunvirtue Co., Ltd.	Dalat
+5	Ayalza	Guatemala	Export Cafe	Tokyo Allied Coffee Roasters Co.,Ltd.	Ayalza
+6	Bcu	Uganda	Dry Mill	Kozzy Kare Assisted Living , Llc	Uganda
+7	Bella Vista	Colombia	La Sabana	Carcafe Ltda	Pacho-Cundinamarca
+8	Beneficio El Torreon	Guatemala	Beneficio Ixchel	Unex (Guatemala), S. A.	Oriente
+9	Beneficio Montañas Del Diamante	Costa Rica	Beneficio Montañas Del Diamante	Ceca,S.A.	Tarrazú
+10	Cachoeira Da Grama Farm	Brazil	Dry Mill	Bourbon Specialty Coffees	Grama Valley
+11	Cafebras Comercio De Café	Brazil	Dry Mill	Cafebras Comércio De Cafes Do Brasil	Cerrado Mineiro
+12	Cafetales Santa Matilde	Nicaragua	Beneficio San Carlos	Comercial Internacional Exportadora, S.A.	Jinotega
+13	Chácara Vista Alegre	Brazil	Cereja Descascado	Nestlé Brasil S/A	Chapada Diamantina
+14	Cooperative Kota	Ethiopia	Dry Mill	Ec Successfood Sàrl	Jimma
+15	Does Not Apply	Mexico	Beneficio Seco Dos Rios	Agroindustrias Unidas De Mexico Sa De Cv	Coatepec, Veracruz
+16	Doi Tung Development Project	Thailand	Dry Mill	Doi Tung Development Project	Thailand
+17	El Ejido	Honduras	Desculpado, Lavado Y Secado En Secadoras Solares	Coffee Planet Corporation S.A	Copan
+18	El Prado	Colombia	Neiva	Carcafe Ltda	Huila
+19	Erandora Farms	Papua New Guinea	Aionora Factory	Erandora Coffee	Eastern Highlands
+20	Exportadora Atlantic S.A	Nicaragua	Dry Mill	Exportadora Atlantic S.A	Nueva Segovia
+21	Fazenda Baú I	Brazil	Natural	Nestlé Brasil S/A	Mogiana
+22	Fazenda Harmonia	Brazil	Cereja Descascado	Nestlé Brasil S/A	Norte Pioneiro Do Paraná
+23	Fazenda Horizonte	Brazil	Cereja Descascado	Nestlé Brasil S/A	Chapada Diamantina
+24	Fazenda Jardim Das Oliveiras	Brazil	Cereja Descascado	Nestlé Brasil S/A	Matas De Minas
+25	Fazenda Orletti	Brazil	Cereja Descascado	Nestlé Brasil S/A	Conilon Capixaba
+26	Fazenda Pilar	Brazil	Cereja Descascado	Nestlé Brasil S/A	Norte Pioneiro Do Paraná
+27	Fazenda Santa Rita Do Morro Grande	Brazil	Natural	Nestlé Brasil S/A	Mogiana
+28	Fazenda Serra Do São Bento	Brazil	Cereja Descascado	Nestlé Brasil S/A	Matas De Minas
+29	Fazenda São Bento	Brazil	Cereja Descascado	Nestlé Brasil S/A	Conilon Capixaba
+30	Fazenda Venturim	Brazil	Cereja Descascado	Nestlé Brasil S/A	Conilon Capixaba
+31	Fazenda Édio Miranda	Brazil	Cereja Descascado	Nestlé Brasil S/A	Matas De Minas
+32	Finca Aurora	Guatemala	Finca Aurora	Cepa Centroamerica, S. A.	Cobán Alta Verapaz
+33	Finca Custepec	Mexico	Finca Custepec	Exportadora Café California	Chiapas
+34	Finca Hortigal	Panama	Beneficios De Cafe De Boquete, S.A.	Jaramillo Coffee Estate	Boquete
+35	Finca Los Angeles	Honduras	Proceso De Despulpado Y Lavado Y Zarandas Para Secado	Coffee Planet Corporation S.A	Los Cedros, Francisco Morazan
+36	Finca Los Remedios	Mexico	Ursulo Galvan	Centro Agroecológico Del Café A. C.	Coatepec
+37	Finca Medina	Guatemala	Finca Medina	Siembras Visión, S. A.	Antigua
+38	Finca Tocotin	Mexico	Ursulo Galvan	Centro Agroecológico Del Café A. C.	Coatepec
+39	Finca Trincheras	Mexico	Ursulo Galvan	Centro Agroecológico Del Café A. C.	Huatusco
+40	Haraz - Wadi Alsail	Yemen	Dry Mill	Crafted Caffeine	Yemen
+41	He Yu Coffee Farm	Taiwan	Yes	Heyu High Technology Co.Ltd	Dongshi District, Taichung City
+42	Helena	Brazil	Copag Varginha	Ed&F Man Volcafe Brasil Ltda.	Cerrado Mineiro, Monte Carmelo'S Region
+43	Kaapi Royale Sethuraman Estate	India	Kaapi Royale Sethuraman Estate	Kaapi Royale	Chikmagalur,India
+44	Kawacom Sipi Project	Uganda	Kawacom Uganda Limted	Kawacom Uganda Ltd	Eastern Uganda
+45	La Guama	Honduras	Bon Cafe S.A.	Bon Cafe S.A	La Paz
+46	Las Cuchillas	Honduras	Dry Mill	Mercon Honduras	Comayagua
+47	Linda Vista	Guatemala	Linda Vista	Mercon Guatemala, S.A.	Santa Rosa
+48	Local Farmer	Ethiopia	Hulling	Al-Impex Business Plc	Dila
+49	Los Angeles	Honduras	Cafe Despulpado Y Lavado Secado En Secadoras Solares	Coffee Planet Corporation S.A	Montaña Vieja, Cedros, Francisco Morazán
+50	Mandalay Coffee Group	Myanmar	Mandalay Coffee Group	Mandalay Coffee Group	Ywangan, Shan State, Myanmar
+51	Matsuzawa Coffee	China	Matsuzawa Coffee	Japan Coffee Exchange	埼玉県
+52	Moreno Cafés Especiais	Brazil	Cereja Descascado	Nestlé Brasil S/A	Chapada Diamantina
+53	Non	Ethiopia	Aleta Wendo	Mullege Plc	Sidamo
+54	Oriente	Guatemala	No	上海本致餐饮管理有限公司	Mataquescuintla,Oriente
+55	Palmichal	Costa Rica	Beneficio Palmichal	Ceca,S.A.	Tarrazu
+56	Pondokbaru, Benermeriah	Indonesia	Pondokbaru, Benermeriah	Pt Rajawali Artha Agro Sejahtera (Ptraas)	Sumatra
+57	Rancho La Victoria	Mexico	Atlalpan, Tlaxco, Puebla	Amate Gmbh	Cuaxtla, Tlaxo, Puebla
+58	Royal Bean Estate	Taiwan	None	Specialty Coffee Association Of America	Tefuye, Dubang Village, Alishan Township
+59	Ruanda Amcos	United Republic Of Tanzania	Mbozi Coffee Curing	Kenyacof	Songwe
+60	San Jose Del Lago	Guatemala	San Jose Del Lago	Peter Schoenfeld,S.A.	Atitlan
+61	Santa Rita De Cássia	Brazil	Alfenas	Olam Specialty Coffee	Carmo De Minas
+62	Santa Rosa	Guatemala	Beneficio 2000	Inmobiliaria Inversiones Dos Mil, S.A.	Santa Rosa
+63	Sitio Alto Liberdade	Brazil	Cereja Descascado	Nestlé Brasil S/A	Montanhas Capixabas
+64	Sitio Rancho Dantas	Brazil	Cereja Descascado	Nestlé Brasil S/A	Montanhas Capixabas
+65	Sucafina Colombia Sas	Colombia	Sucafina Colombia Sas	Sucafina Colombia Sas	Huila
+66	Sítio Capoeira	Brazil	Natural	Nestlé Brasil S/A	Mogiana
+67	Sítio Forquilha Do Rio	Brazil	Cereja Descascado	Nestlé Brasil S/A	Caparaó
+68	Sítio Santo Antônio	Brazil	Cereja Descascado	Nestlé Brasil S/A	Chapada Diamantina
+69	Sítio São Domingos Moinho Grande	Brazil	Cereja Descascado	Nestlé Brasil S/A	Caparaó
+70	Tatananna	East Timor	Yes	Envirolink Corporation	East Timor
+71	Thoudsanikone Plantation (沙瓦杜莊園)	Laos	Yes	百崧咖啡有限公司	Paksong , Laos
+72	Tres Volcanes	El Salvador	Acpa. Ataisi De R.L.	Consejo Salvadoreño Del Café	Apaneca - Ilamatepec
+73	Varios, Pequeños Productores	Guatemala	Beneficio Pastores	Peter Schoenfeld, S.A.	Pastores Sacatepequez
+74	Various	Kenya	Ckcm	C Dormans Limited	Central
+75	Vista Alegre Estate Coffee	Brazil	Dry Mil	Agrogenius	Sul De Minas
+76	莫卡莊園	Honduras	None	上海本致餐飲管理有限公司	Masaguara
